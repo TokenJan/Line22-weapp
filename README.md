@@ -3,6 +3,6 @@ Shanghai Jinshan Line 22 timetable wechat mini programme implemented by Taro fra
 
 ## Screenshot
 
-!(index)[https://github.com/TokenJan/Line22-weapp/img/index.png]
+![index](https://github.com/TokenJan/Line22-weapp/blob/master/img/index.png?raw=true)
 
-!(timetable)[https://github.com/TokenJan/Line22-weapp/img/timetable.png]
+![timetable](https://github.com/TokenJan/Line22-weapp/blob/master/img/timetable.png?raw=true)
