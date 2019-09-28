@@ -1,0 +1,5 @@
+export const WEEKDAY = "WEEKDAY"
+export const WEEKEND = "WEEKEND"
+export const OPENMODAL = "OPENMODAL"
+export const CLOSEMODAL = "CLOSEMODAL"
+export const UPDATETIMETABLE = "UPDATETIMETABLE"
